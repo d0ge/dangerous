@@ -1,0 +1,11 @@
+{"keyId":"Flask","secret":"secret","salt":"salt","separator":".","digestMethod":"1","keyDerivation":"5","messageDerivation":"0","messageDigestAlgorythm":"4"}
+{"keyId":"Tornado","secret":"secret","salt":"","separator":"|","digestMethod":"3","keyDerivation":"6","messageDerivation":"0","messageDigestAlgorythm":"7"}
+{"keyId":"Ruby5","secret":"aeb977de013ade650b97e0aa5246813591104017871a7753fe186e9634c9129b367306606878985c759ca4fddd17d955207011bb855ef01ed414398b4ac8317b","salt":"signed encrypted cookie","separator":"--","digestMethod":"1","keyDerivation":"8","messageDerivation":"0","messageDigestAlgorythm":"7"}
+{"keyId":"Ruby","secret":"aeb977de013ade650b97e0aa5246813591104017871a7753fe186e9634c9129b367306606878985c759ca4fddd17d955207011bb855ef01ed414398b4ac8317b","salt":"signed encrypted cookie","separator":"--","digestMethod":"1","keyDerivation":"7","messageDerivation":"0","messageDigestAlgorythm":"7"}
+{"keyId":"Express1","secret":"key1","salt":"salt","separator":".","digestMethod":"4","keyDerivation":"2","messageDerivation":"0","messageDigestAlgorythm":"1"}
+{"keyId":"RubyTruncated","secret":"aeb977de013ade650b97e0aa5246813591104017871a7753fe186e9634c9129b367306606878985c759ca4fddd17d955207011bb855ef01ed414398b4ac8317b","salt":"signed encrypted cookie","separator":"--","digestMethod":"1","keyDerivation":"9","messageDerivation":"0","messageDigestAlgorythm":"7"}
+{"keyId":"ExpressMagic","secret":"magic","salt":"salt","separator":".","digestMethod":"4","keyDerivation":"2","messageDerivation":"0","messageDigestAlgorythm":"1"}
+{"keyId":"Express2","secret":"key2","salt":"salt","separator":".","digestMethod":"4","keyDerivation":"2","messageDerivation":"0","messageDigestAlgorythm":"1"}
+{"keyId":"JSONWebSignature","secret":"secret","salt":"","separator":".","digestMethod":"3","keyDerivation":"6","messageDerivation":"0","messageDigestAlgorythm":"7"}
+{"keyId":"Django","secret":"secret","salt":"django.contrib.sessions.backends.signed_cookies","separator":":","digestMethod":"1","keyDerivation":"4","messageDerivation":"0","messageDigestAlgorythm":"2"}
+{"keyId":"OAuth2","secret":"j76h5PEMx3FIGr3caArJ5g\u003d\u003d","salt":"salt","separator":"|","digestMethod":"3","keyDerivation":"1","messageDerivation":"0","messageDigestAlgorythm":"7"}
